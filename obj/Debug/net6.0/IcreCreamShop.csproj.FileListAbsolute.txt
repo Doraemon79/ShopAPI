@@ -1,0 +1,7 @@
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.csproj.AssemblyReference.cache
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.AssemblyInfoInputs.cache
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.AssemblyInfo.cs
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.csproj.CoreCompileInputs.cache
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\IceCreamsShop_APIs\IcreCreamShop\IcreCreamShop\obj\Debug\net6.0\IcreCreamShop.MvcApplicationPartsAssemblyInfo.cache
