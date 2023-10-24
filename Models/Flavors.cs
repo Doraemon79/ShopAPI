@@ -1,6 +1,6 @@
 ﻿namespace IcreCreamShop.Models
 {
-    enum Flavours
+    public enum Flavors
     {
         chocolate=1,
         vanila,
